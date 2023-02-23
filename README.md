@@ -6,7 +6,7 @@ I'm Lindsay (she/her) and I currently wear two hats:
 
 🎓 I am also a graduate student in the [Dugan Lab at University of Wisconsin-Madison](https://dugan.limnology.wisc.edu/)
 
-</br>
+<br></br>
 I love all things reproducibility and open science. Ask me about using [`targets`](https://docs.ropensci.org/targets/) to organize scientific workflows or show me your messy data and I'm hooked 🎣
 
 <!--
