@@ -4,7 +4,7 @@ I'm Lindsay (she/her) and I am an **environmental data scientist**. I love all t
 <br></br>
 
 * 💻 2023 - Present, Environmental Data Scientist at [CUAHSI](https://www.cuahsi.org)
-* 🎓 2022-2024, M.S. Freshwater and Marine Science at UW-Madison as part of the [Dugan Lab](https://dugan.limnology.wisc.edu/) (see my [thesis repo and published code](https://github.com/lindsayplatt/salt-modeling-data))
+* 🎓 2022-2024, M.S. Freshwater and Marine Science at UW-Madison as part of the [Dugan Lab](https://dugan.limnology.wisc.edu/) (see my [thesis code](https://github.com/lindsayplatt/salt-modeling-data))
 * 🏢 2015-2023, Water Data Scientist at the U.S. Geological Survey (see the group's cool stuff on Twitter [@USGS_DataSci](https://twitter.com/USGS_DataSci))
 * 🎓 2011-2015, B.S. Biological Systems Engineering at Virginia Tech (where I learned Matlab and R)
 
