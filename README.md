@@ -1,13 +1,12 @@
 ### Greetings 🖖
 
-I'm Lindsay (she/her) and I currently wear two hats:
-
-👒 I am an Environmental Data Scientist at [CUAHSI](www.cuahsi.org) 
-
-🎓 I am also a graduate student in the [Dugan Lab at University of Wisconsin-Madison](https://dugan.limnology.wisc.edu/)
-
+I'm Lindsay (she/her) and I am an **environmental data scientist**. I love all things reproducibility and open science! Ask me about using [`targets`](https://docs.ropensci.org/targets/) to organize scientific workflows or show me your messy data and I'm hooked 🎣
 <br></br>
-I love all things reproducibility and open science. I was previously a Water Data Scientist at the U.S. Geological Survey (see the group's cool stuff on Twitter [@USGS_DataSci](https://twitter.com/USGS_DataSci)). Ask me about using [`targets`](https://docs.ropensci.org/targets/) to organize scientific workflows or show me your messy data and I'm hooked 🎣
+
+* 💻 2023 - Present, Environmental Data Scientist at [CUAHSI](https://www.cuahsi.org)
+* 🎓 2022-2024, M.S. Freshwater and Marine Science at UW-Madison as part of the [Dugan Lab](https://dugan.limnology.wisc.edu/) (see my [thesis repo and published code](https://github.com/lindsayplatt/salt-modeling-data))
+* 🏢 2015-2023, Water Data Scientist at the U.S. Geological Survey (see the group's cool stuff on Twitter [@USGS_DataSci](https://twitter.com/USGS_DataSci))
+* 🎓 2011-2015, B.S. Biological Systems Engineering at Virginia Tech (where I learned Matlab and R)
 
 <!--
 **lindsayplatt/lindsayplatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
